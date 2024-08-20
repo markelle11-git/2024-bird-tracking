@@ -6,6 +6,6 @@ export default defineConfig({
   build: {
     outDir: 'build',
   },
-  base: '/2024-bird-tracking/',
+  base: './',
   plugins: [react()],
 })
